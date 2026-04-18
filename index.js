@@ -1,3 +1,4 @@
+temp
 
 let usersEmail = '';
 
@@ -464,7 +465,6 @@ function isStrongPassword() {
 
      
     }
-
 
     document.getElementById('showPasswords').addEventListener('click', function(){
 
